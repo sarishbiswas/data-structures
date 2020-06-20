@@ -1,0 +1,5 @@
+package dynamicDataStructure.stack;
+
+public class Stack implements Iterable<T> {
+
+}

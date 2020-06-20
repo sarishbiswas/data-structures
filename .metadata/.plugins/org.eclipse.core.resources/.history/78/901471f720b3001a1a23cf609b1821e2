@@ -1,0 +1,24 @@
+package dynamicDataStructure.stack;
+
+import dynamicDataStructure.stack.exception.StackEmptyException;
+
+public class TestStack {
+
+	public static void main(String[] args) {
+		Stack<String> s = new Stack<String>();
+		s.push("[");
+		s.push("{");
+		s.push("(");
+		s.push(")");
+		s.push("}");
+		s.push("]");
+		System.out.println(s);
+		try {
+			System.out.println(s.pop());
+		} catch (StackEmptyException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;singlyLinkedList&apos; to &apos;dynamicDataStructure/src/dynamicArray&apos;&#x0D;&#x0A;- Original project: &apos;singlyLinkedList&apos;&#x0D;&#x0A;- Destination element: &apos;dynamicDataStructure/src/dynamicArray&apos;&#x0D;&#x0A;- Original element: &apos;singlyLinkedList/src/singlyLinkedList&apos;" description="Copy package" destination="=dynamicDataStructure/src&lt;dynamicArray" element1="/src&lt;singlyLinkedList" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1591810205237" version="1.0"/>
+</session>

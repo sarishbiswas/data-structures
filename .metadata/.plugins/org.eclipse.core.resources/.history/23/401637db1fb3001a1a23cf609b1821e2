@@ -1,0 +1,40 @@
+package dynamicDataStructure.stack;
+
+import java.util.Iterator;
+
+import dynamicDataStructure.DynamicDS;
+import dynamicDataStructure.doublyLinkedList.DoublyLinkedList;
+
+public class Stack<T> implements Iterable<T> {
+	DynamicDS<T> dll = null;
+	public Stack() {
+		super();
+		this.dll = new DoublyLinkedList<T>();
+	}
+	public Stack(T firstElement) {
+		push(firstElement);
+	}
+	public int size() {
+		return dll.size();
+	}
+	public boolean isEmpty() {
+		return dll.size()==0;
+	}
+	public void push(T firstElement) {
+		dll.addFirst(firstElement);
+	}
+	public T pop() {
+		return dll.removeFirst();
+	}
+	public T peek() {
+		return dll.get(0);
+	}
+	public int search(T element) {
+		return dll.indexOf(element);
+	}
+	@Override
+	public Iterator<T> iterator() {
+		return dll.iterator();
+	}
+
+}

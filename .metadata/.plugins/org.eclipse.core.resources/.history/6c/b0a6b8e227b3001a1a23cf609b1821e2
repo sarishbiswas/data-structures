@@ -1,0 +1,5 @@
+package dynamicDataStructure.queue;
+
+public class Queue implements Iterable<T> {
+
+}

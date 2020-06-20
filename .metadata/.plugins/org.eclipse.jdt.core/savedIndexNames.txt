@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Data_Structure_in_JAVA\.metadata\.plugins\org.eclipse.jdt.core
+1171584322.index
+2103231971.index

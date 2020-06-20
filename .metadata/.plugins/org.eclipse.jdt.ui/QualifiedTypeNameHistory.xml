@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="dynamicArray.DynamicArray"/>
+    <fullyQualifiedTypeName name="singlyLinkedList.SinglyLinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.AutonomousCar"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="dynamicDataStructure.stack.Stack"/>
+    <fullyQualifiedTypeName name="dynamicDataStructure.stack.exception.StackEmptyException"/>
+    <fullyQualifiedTypeName name="dynamicDataStructure.DynamicDS"/>
+    <fullyQualifiedTypeName name="dynamicDataStructure.doublyLinkedList.DoublyLinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="dynamicDataStructure.queue.Queue"/>
+</qualifiedTypeNameHistroy>
